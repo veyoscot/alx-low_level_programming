@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main -Determine positive or negative
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
@@ -26,3 +26,4 @@ printf("The number is negative\n", n);
 }
 return (0);
 }
+
