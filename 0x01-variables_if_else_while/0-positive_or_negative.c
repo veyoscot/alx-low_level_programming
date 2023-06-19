@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Determines positive or negetive or zero
+ * main -Determine positive or negative
  *
  * Return: Always 0 (Success)
  */
@@ -18,11 +18,11 @@ printf("The number is positive\n", n);
 }
 else if (n == 0)
 {
-printf("The number is negative\n", n);
+printf("The number is zero\n", n);
 }
 else
 {
-printf("The number is zero\n", n);
+printf("The number is negative\n", n);
 }
 return (0);
 }
