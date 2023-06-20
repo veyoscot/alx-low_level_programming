@@ -2,7 +2,7 @@
 /**
  *main-program entry point.
  *Description: print single digit numbers
- *Return:0 no error, non zero if error
+ *Return:0 
  */
 int main(void)
 {
